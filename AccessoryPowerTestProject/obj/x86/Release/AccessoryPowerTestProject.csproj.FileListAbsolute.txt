@@ -1,0 +1,17 @@
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Release\AccessoryPowerTestProject.exe.config
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Release\AccessoryPowerTestProject.exe
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Release\AccessoryPowerTestProject.pdb
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Release\MySql.Data.dll
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Release\MySql.Data.Entity.dll
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.AddPartForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.AddProductForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.UpdatePartForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.UpdateProductForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.MainForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.Properties.Resources.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.PartsUC.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.ProductsUC.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.WelcomeUC.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.csproj.GenerateResource.Cache
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.exe
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Release\AccessoryPowerTestProject.pdb

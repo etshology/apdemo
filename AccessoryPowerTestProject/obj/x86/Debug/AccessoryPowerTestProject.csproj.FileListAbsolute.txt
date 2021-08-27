@@ -1,0 +1,53 @@
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.exe
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.pdb
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\MySql.Data.dll
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\MySql.Data.Entity.dll
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.Properties.Resources.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.csproj.GenerateResource.Cache
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.exe
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.pdb
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.MainForm.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.ProductsUC.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.PartsUC.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.exe.config
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.WelcomeUC.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.AddProductForm.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.UpdateProductForm.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.AddPartForm.resources
+c:\users\hesham\documents\visual studio 2010\Projects\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.UpdatePartForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.exe.config
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.exe
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.pdb
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.exe
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.pdb
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\MySql.Data.dll
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\MySql.Data.Entity.dll
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.csprojResolveAssemblyReference.cache
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.AddPartForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.AddProductForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.UpdatePartForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.UpdateProductForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.MainForm.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.Properties.Resources.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.PartsUC.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.ProductsUC.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.WelcomeUC.resources
+G:\Documents\Private\Accessory Power\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.csproj.GenerateResource.Cache
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.exe.config
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.exe
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.pdb
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.exe
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\AccessoryPowerTestProject.pdb
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\MySql.Data.dll
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\bin\Debug\MySql.Data.Entity.dll
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.csprojResolveAssemblyReference.cache
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.AddPartForm.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.AddProductForm.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.UpdatePartForm.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.UpdateProductForm.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.MainForm.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.Properties.Resources.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.PartsUC.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.ProductsUC.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.WelcomeUC.resources
+D:\AccessoryPowerTestProject\AccessoryPowerTestProject\obj\x86\Debug\AccessoryPowerTestProject.csproj.GenerateResource.Cache
